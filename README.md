@@ -1,2 +1,2 @@
-# jivosite_deferded
-Jivo deferred load
+# jivosite_deferred
+Jivosite chat will load after scroll
